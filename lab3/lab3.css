@@ -1,0 +1,134 @@
+/* Name : Bansari Maharaja */
+
+* {
+  margin: 3px;
+  padding: 3px;
+}
+
+body {
+  background-color: #DDD78D;
+  font-family: sans-serif;
+}
+
+header {
+  border-style: solid ;
+  padding: 10px;
+  border-radius: 4px;
+  border-color: black;
+  color: #93A29B;
+  background-color: #60594D;
+  font-size: larger;
+ 
+}
+
+
+
+
+.flex-container {
+  display: flex;
+  background-color: #60594D;
+  border-color: black;
+  align-content: center;
+  justify-content: center;
+  font-size: 12pt;
+}
+
+.flex-container>div {
+
+  margin: 10px;
+  padding: 5px;
+  font-size: 12pt;
+  color: #93A29B;
+  text-align: center;
+  background-color: white;
+  border-color: black;
+  border-radius: 25px;
+}
+
+a:link, a:hover
+ {
+  color: #93A29B;
+  text-decoration-line: none;
+  color: #8B635C;
+  
+}
+
+
+
+.css,
+p {
+  font-size: 14pt;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  background-color: #DDD78D;
+  text-align: left;
+  color: #2e2e2b;
+
+}
+
+
+
+
+img {
+  float: right;
+  width: 25%;
+  height: 25%;
+  margin: 10px;
+
+}
+
+
+
+.bold{
+  font-weight: bold;
+  }
+
+
+  ul{
+    margin: 12px;
+  }
+
+  ol{
+    margin : 15px;
+  }
+
+ 
+ 
+  blockquote {
+    background-color: #DCBF85;
+    text-align: center;
+    margin-top: 10px;
+    margin-right: 20px;
+    margin-bottom: 10px;
+    margin-left: 20px;
+    padding: 10px;
+  
+  }
+
+
+
+footer {
+  
+  border-style: solid;
+  padding: 10px;
+  border-radius: 4px;
+  border-color: black;
+  background-color: #60594D;
+  text-align: center;
+  
+ 
+    }
+
+  .end{
+    color: #93A29B;
+    line-height: 20px;
+    
+  }
+
+
+  .line{
+    color: #93A29B;;
+    text-align: right;
+    font-size: 10pt;
+    font-style: italic;
+    }
